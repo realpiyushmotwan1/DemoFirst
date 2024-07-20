@@ -1,2 +1,8 @@
 # DemoFirst
-Demo for Git...
+Demo for Git..
+
+# Teacher
+Piyush Motwani 
+
+# Student
+Piyush
